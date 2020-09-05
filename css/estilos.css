@@ -1,0 +1,18 @@
+.img-categoria {
+    max-width: 250px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.category-container {
+    margin-top: 50px;
+}
+
+.footer-txt {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    color: white;
+    font-size: 15px;
+}
